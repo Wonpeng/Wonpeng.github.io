@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, School of Industrial Engineering/Escuela Técnica Superior de Ingenieros Industriales (ETSII), Technical University of Madrid (also known as Universidad Politécnica de Madrid, UPM). 
+My chief supervisor is [Prof. Luis Badesa](https://scholar.google.com/citations?user=8DQgsZQAAAAJ&hl=fr) from School of Industrial Engineering and Design/Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) and co-supervisor is [Dr. Xi Zhang](https://scholar.google.com/citations?hl=fr&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate). I recived my Master's and Bachelor's Degrees in Department of Electrical and Eletronic Engineering, School of Automation, Chongqing University of Posts and Telecommunications, supervised by Prof. Yiwei Ma.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Power Systems, Electricity Markets, Optimal Operation Design, Renewable Energy.
 
 
 # 🔥 News
