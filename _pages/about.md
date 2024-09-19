@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, School of Industrial Engineering/Escuela Técnica Superior de Ingenieros Industriales (ETSII), Technical University of Madrid (also known as Universidad Politécnica de Madrid, UPM). 
-My chief supervisor is [Prof. Luis Badesa](https://scholar.google.com/citations?user=8DQgsZQAAAAJ&hl=fr) from School of Industrial Engineering and Design/Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) and co-supervisor is [Dr. Xi Zhang](https://scholar.google.com/citations?hl=fr&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate). I recived my Master's and Bachelor's Degrees in Department of Electrical and Eletronic Engineering, School of Automation, Chongqing University of Posts and Telecommunications, supervised by Prof. Yiwei Ma.
+I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, School of Industrial Engineering/Escuela Técnica Superior de Ingenieros Industriales (ETSII), Technical University of Madrid 🇪🇸(also known as Universidad Politécnica de Madrid, UPM). 
+My chief supervisor is [Prof. Luis Badesa](https://scholar.google.com/citations?user=8DQgsZQAAAAJ&hl=fr), School of Industrial Engineering and Design/Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) and co-supervisor is [Dr. Xi Zhang](https://scholar.google.com/citations?hl=fr&user=r6BeldgAAAAJ&view_op=list_works&sortby=pubdate). I recived my Master's and Bachelor's Degrees in Department of Electrical and Eletronic Engineering, School of Automation, Chongqing University of Posts and Telecommunications 🇨🇳, supervised by [Prof. Yiwei Ma](https://faculty.cqupt.edu.cn/mayiwei/zh_CN/index/53683/list/index.htm).
 
 My research interests include Power Systems, Electricity Markets, Optimal Operation Design, Renewable Energy.
 
